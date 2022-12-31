@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @lynxbinz
+- 👀 I’m interested in C2Dev
+- 🌱 I’m currently learning Malwz Revsr Enginr
